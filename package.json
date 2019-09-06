@@ -1,0 +1,24 @@
+{
+  "name": "slatest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "slatest",
+    "delete-entire-theme": "slatest --delete-entire-theme",
+    "upload-entire-theme": "slatest --upload-entire-theme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entozoon/slatest-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entozoon/slatest-example/issues"
+  },
+  "homepage": "https://github.com/entozoon/slatest-example#readme",
+  "dependencies": {
+    "slatest": "^1.9.1"
+  }
+}

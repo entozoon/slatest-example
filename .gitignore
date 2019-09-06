@@ -1,0 +1,3 @@
+node_modules
+# Ignore .css/.js in the repo, as they're compiled from .scss/.es6 respectively and uploaded
+assets/*.compiled.*

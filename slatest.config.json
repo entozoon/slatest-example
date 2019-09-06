@@ -1,0 +1,7 @@
+{
+  "themeId": "11111111111",
+  "appPassword": "66666666666666666666666666666666",
+  "store": "my-store-name.myshopify.com",
+  "watch": ["**/*.liquid", "**/*.json", "assets/**/*"],
+  "ignore": ["node_modules/**", "config/settings_data.json"]
+}
