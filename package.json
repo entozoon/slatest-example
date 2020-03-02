@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/entozoon/slatest-example#readme",
   "dependencies": {
-    "slatest": "^1.9.1"
+    "slatest": "^1.14.0"
   }
 }
